@@ -11,10 +11,11 @@ Hello there ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/Mar
 <!-- display the social media buttons in your README -->
 
 
-<!--
-&nbsp;
-[![CV][8_icon]][6]-->
+
+
 [![Github][3_icon3]][3]
+&nbsp;
+[![CV][8_icon]][6]
 &nbsp;
 [![LinkedIn][4_icon2]][4]
 &nbsp;
@@ -55,7 +56,7 @@ Hello there ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/Mar
 [3]: http://theatina.github.io/
 [4]: https://linkedin.com/in/theatinakylafi
 [5]: https://open.spotify.com/user/theatrina9?si=NZNM2YzyRU2EhDPKfWBjMA
-<!-- [6]: -->
+[6]: https://drive.google.com/file/d/1KRaBEPSmlHBEkrIS1NSgSkiojLTY1MLD/view?usp=sharing
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
