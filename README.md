@@ -36,11 +36,11 @@ Hello there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 [3_icon2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3_icon3]: https://img.shields.io/badge/-100000?style=for-the-badge&logo=github&logoColor=white
-[4_icon2]: https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=black
-[5_icon]: https://img.shields.io/badge/-1ED760?&style=for-the-badge&logo=spotify&logoColor=black
-[6_icon]: https://img.shields.io/badge/-1877F2?style=for-the-badge&logo=facebook&logoColor=black
-[7_icon]: https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black
+[3_icon3]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[4_icon2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black
+[5_icon]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=black
+[6_icon]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black
+[7_icon]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
