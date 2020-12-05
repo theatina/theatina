@@ -20,7 +20,7 @@ Hello there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 &nbsp;
 [![Twitter][7_icon]][1]
 
-
+<br>
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
