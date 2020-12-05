@@ -1,8 +1,6 @@
 <h1>
-Hello there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hello there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 </h1>
-
-<br>
 
 <!--[![GitHub followers](https://img.shields.io/github/followers/theatina?label=Follow&style=social)](https://github.com/theatina/?tab=followers) 
 &nbsp;&nbsp; [![Twitter](http://i.imgur.com/wWzX9uB.png)](https://twitter.com/doYouEvenExist_)
@@ -14,15 +12,15 @@ Hello there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 [![Github][3_icon3]][3]
 &nbsp;
-[![Twitter][7_icon]][1]
-&nbsp;
-[![Facebook][6_icon]][2]
-&nbsp;
 [![LinkedIn][4_icon2]][4]
 &nbsp;
 [![Spotify][5_icon]][5]
+&nbsp;
+[![Facebook][6_icon]][2]
+&nbsp;
+[![Twitter][7_icon]][1]
 
-<hline>
+
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
@@ -60,12 +58,12 @@ Hello there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 
 ![Theatinas's github stats](https://github-readme-stats.vercel.app/api?username=theatina&show_icons=true&theme=react&hide_title=true&line_height=22pt)
 
-<br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theatina&layout=compact)](https://github.com/theatina/github-readme-stats)
 
 <br>
 
+
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=theatina.theatina)-->
 
 <!--
 **theatina/theatina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
