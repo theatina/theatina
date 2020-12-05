@@ -22,6 +22,7 @@ Hello there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 &nbsp;
 [![Spotify][5_icon]][5]
 
+<hline>
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
@@ -47,7 +48,7 @@ Hello there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 <!-- update these accordingly -->
 
 [1]: http://www.twitter.com/doyouevenexist_
-[2]: http://www.facebook.com/theatinakylafi
+[2]: http://www.facebook.com/theatina
 [3]: http://www.github.com/theatina
 [4]: https://linkedin.com/in/theatinakylafi
 [5]: https://open.spotify.com/user/theatrina9?si=NZNM2YzyRU2EhDPKfWBjMA
@@ -57,12 +58,13 @@ Hello there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 <!-- [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there!  (I'm Theat(rina Kyl|ina Kyl)| Do you even exist ? !)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/) -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theatina&layout=compact)](https://github.com/theatina/github-readme-stats)
+![Theatinas's github stats](https://github-readme-stats.vercel.app/api?username=theatina&show_icons=true&theme=react&hide_title=true&line_height=22pt)
 
 <br>
 
-![Theatinas's github stats](https://github-readme-stats.vercel.app/api?username=theatina&show_icons=true&theme=react&hide_title=true&line_height=22pt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theatina&layout=compact)](https://github.com/theatina/github-readme-stats)
 
+<br>
 
 
 <!--
