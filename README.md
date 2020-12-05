@@ -10,10 +10,11 @@ Hello there ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/Mar
 
 <!-- display the social media buttons in your README -->
 
-[![Github][3_icon3]][3]
+
 <!--
 &nbsp;
 [![CV][8_icon]][6]-->
+[![Github][3_icon3]][3]
 &nbsp;
 [![LinkedIn][4_icon2]][4]
 &nbsp;
