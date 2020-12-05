@@ -1,5 +1,5 @@
 <h1>
-Hello there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+Hello there ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 </h1>
 
 <!--[![GitHub followers](https://img.shields.io/github/followers/theatina?label=Follow&style=social)](https://github.com/theatina/?tab=followers) 
@@ -11,6 +11,9 @@ Hello there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 <!-- display the social media buttons in your README -->
 
 [![Github][3_icon3]][3]
+<!--
+&nbsp;
+[![CV][8_icon]][6]-->
 &nbsp;
 [![LinkedIn][4_icon2]][4]
 &nbsp;
@@ -41,15 +44,18 @@ Hello there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHein
 [5_icon]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=black
 [6_icon]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=black
 [7_icon]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=black
+[8_icon]: https://img.shields.io/badge/Resumé-4285F4?style=for-the-badge&logo=google-drive&logoColor=black
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
 [1]: http://www.twitter.com/doyouevenexist_
 [2]: http://www.facebook.com/theatina
-[3]: http://www.github.com/theatina
+[3]: http://theatina.github.io/
 [4]: https://linkedin.com/in/theatinakylafi
 [5]: https://open.spotify.com/user/theatrina9?si=NZNM2YzyRU2EhDPKfWBjMA
+<!-- [6]: -->
+
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 
