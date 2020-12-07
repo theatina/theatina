@@ -2,16 +2,9 @@
 Hello there ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 </h1>
 
-<!--[![GitHub followers](https://img.shields.io/github/followers/theatina?label=Follow&style=social)](https://github.com/theatina/?tab=followers) 
-&nbsp;&nbsp; [![Twitter](http://i.imgur.com/wWzX9uB.png)](https://twitter.com/doYouEvenExist_)
-&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://linkedin.com/in/theatinakylafi)-->
-
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
-
-
-
 
 [![Github][3_icon3]][3]
 &nbsp;
@@ -61,16 +54,22 @@ Hello there ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/Mar
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 
-<!-- [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there!  (I'm Theat(rina Kyl|ina Kyl)| Do you even exist ? !)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/) -->
-
-
 ![Theatinas's github stats](https://github-readme-stats.vercel.app/api?username=theatina&show_icons=true&theme=react&hide_title=true&line_height=22pt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theatina&layout=compact)](https://github.com/theatina/github-readme-stats)
 
+[![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-08--12--2020-blue)](https://github.com/theatina/AoC_2020/commit/0051fec23c567c10d62cf6d98bf6bcd7ee8f2fd6)
 
-![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-08--12--2020-blue)
 
+
+
+<!-- OLD CODE -->
+
+<!--[![GitHub followers](https://img.shields.io/github/followers/theatina?label=Follow&style=social)](https://github.com/theatina/?tab=followers) 
+&nbsp;&nbsp; [![Twitter](http://i.imgur.com/wWzX9uB.png)](https://twitter.com/doYouEvenExist_)
+&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://linkedin.com/in/theatinakylafi)-->
+
+<!-- [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there!  (I'm Theat(rina Kyl|ina Kyl)| Do you even exist ? !)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/) -->
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=theatina.theatina)-->
 
