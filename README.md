@@ -68,7 +68,8 @@ Hello there ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/Mar
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theatina&layout=compact)](https://github.com/theatina/github-readme-stats)
 
-<br>
+
+![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-07--12--2020-blue)
 
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=theatina.theatina)-->
