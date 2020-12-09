@@ -58,7 +58,7 @@ Hello there ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/Mar
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theatina&layout=compact)](https://github.com/theatina/github-readme-stats)
 
-[![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-08--12--2020-blue)](https://github.com/theatina/AoC_2020)
+[![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-09--12--2020-blue)](https://github.com/theatina/AoC_2020)
 
 
 
