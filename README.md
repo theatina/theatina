@@ -34,7 +34,7 @@ Hello there ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/Mar
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 [3_icon2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3_icon3]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge-md&logo=github&logoColor=white
+[3_icon3]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge-m&logo=github&logoColor=white
 [4_icon2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge-m&logo=linkedin&logoColor=black
 [5_icon]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge-m&logo=spotify&logoColor=black
 [6_icon]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge-m&logo=facebook&logoColor=black
