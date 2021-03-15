@@ -56,7 +56,7 @@ Hello there ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/Mar
 
 ![Theatinas's github stats](https://github-readme-stats.vercel.app/api?username=theatina&show_icons=true&theme=react&hide_title=true&line_height=22pt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theatina&layout=compact)](https://github.com/theatina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theatina&layout=compact&exclude_repo=asr-tts-class-2021)](https://github.com/theatina/github-readme-stats)
 
 [![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-15--03--2021-blue)]()
 
