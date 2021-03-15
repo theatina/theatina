@@ -57,6 +57,5 @@ Hello there ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/Mar
 <br />
 -->
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/theatrina9)
 
 
