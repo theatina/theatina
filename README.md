@@ -52,11 +52,11 @@ Hello there ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/Mar
 
 [![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-15--03--2021-blue)]()
 
-
 <!--  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=theatina&theme=algolia)  
 <br />
 -->
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/theatrina9)
 
 
