@@ -54,9 +54,9 @@ Hello there ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/Mar
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 
-![Theatinas's github stats](https://github-readme-stats.vercel.app/api?username=theatina&show_icons=true&theme=react&hide_title=true&line_height=22pt)
+![Theatinas's github stats](https://github-readme-stats.vercel.app/api?username=theatina&count_private=True&show_icons=true&theme=react&hide_title=true&line_height=22pt&hide=issues,prs,contribs&hide_rank=True)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theatina&layout=compact&exclude_repo=asr-tts-class-2021)](https://github.com/theatina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theatina&hide_border=True&layout=compact&exclude_repo=asr-tts-class-2021)](https://github.com/theatina/github-readme-stats)
 
 [![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-15--03--2021-blue)]()
 
