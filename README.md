@@ -48,6 +48,15 @@ Hello there ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/Mar
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theatina&hide_border=True&layout=compact&exclude_repo=asr-tts-class-2021)](https://github.com/theatina/github-readme-stats)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=theatina&theme=onedark&no-frame=true&title=Stars,Commit,Repositories,Followers)
+
 [![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-15--03--2021-blue)]()
+
+
+<!--  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=theatina&theme=algolia)  
+<br />
+-->
+
 
 
