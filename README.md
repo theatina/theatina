@@ -50,7 +50,7 @@ Hello there ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/Mar
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=theatina&theme=onedark&no-frame=true&title=Stars,Commit,Repositories,Followers)
 <br><br>
-[![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-15%2003%202021-blue)]()
+[![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-15%2003%202021-blue)](https://github.com/theatina)
 
 <!--  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=theatina&theme=algolia)  
