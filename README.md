@@ -46,7 +46,8 @@ Hello there ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/Mar
 <!-- Statistics -->
 ![Theatinas's github stats](https://github-readme-stats.vercel.app/api?username=theatina&count_private=True&show_icons=true&theme=react&hide_title=true&line_height=22pt&hide=issues,prs,contribs&hide_rank=True)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theatina&hide_border=True&layout=compact&exclude_repo=asr-tts-class-2021)](https://github.com/theatina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theatina&hide_border=True&layout=compact)](https://github.com/theatina/github-readme-stats)
+<!--&exclude_repo=asr-tts-class-2021)]-->
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=theatina&theme=onedark&no-frame=true&title=Stars,Commit,Repositories,Followers)
 <br><br>
