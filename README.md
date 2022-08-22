@@ -1,6 +1,10 @@
 <h1>
-Hello there ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+Hello there ! 
 </h1>
+
+<!-- 
+&nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+-->
 
 <!-- social media buttons -->
 [![Github][3_icon3]][3]
