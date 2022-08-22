@@ -49,9 +49,11 @@ Hello there ! &nbsp; <img src="https://raw.githubusercontent.com/MartinHeinz/Mar
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theatina&hide_border=True&layout=compact)](https://github.com/theatina/github-readme-stats)
 <!--&exclude_repo=asr-tts-class-2021)]-->
 
+<!--  
 ![trophy](https://github-profile-trophy.vercel.app/?username=theatina&theme=onedark&no-frame=true&title=Stars,Commit,Repositories,Followers)
 <br><br>
 [![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-22%2007%202022-blue)](https://github.com/theatina)
+-->
 
 <!--  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=theatina&theme=algolia)  
