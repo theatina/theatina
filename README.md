@@ -50,7 +50,7 @@ Hello there !
 <!-- Statistics  
 ![Theatinas's github stats](https://github-readme-stats.vercel.app/api?username=theatina&count_private=True&show_icons=true&theme=react&hide_title=true&line_height=22pt&hide=issues,prs,contribs&hide_rank=True)-->
 
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theatina&hide_border=True&layout=compact)](https://github.com/theatina/github-readme-stats)
 <!-- &exclude_repo=asr-tts-class-2021)]-->
 
