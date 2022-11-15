@@ -52,7 +52,7 @@ Hello there !
 
 <h2></h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theatina&theme=nord&hide_border=True&layout=compact&card_width=444)](https://github.com/theatina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theatina&theme=nord&hide_border=True&layout=compact&card_width=444&langs_count=10)](https://github.com/theatina/github-readme-stats)
 <!-- &exclude_repo=asr-tts-class-2021)]-->
 
 
