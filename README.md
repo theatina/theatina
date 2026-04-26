@@ -40,10 +40,10 @@ Hello there !
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- links to social media accounts -->
-[1]: https://www.twitter.com/doyouevenexist_
-[2]: https://www.facebook.com/theatina
-[3]: https://theatina.com
-[4]: https://linkedin.com/in/theatinakylafi
+[1]: http://www.twitter.com/doyouevenexist_
+[2]: http://www.facebook.com/theatina
+[3]: http://www.theatina.com
+[4]: http://linkedin.com/in/theatinakylafi
 [5]: https://open.spotify.com/user/31rk7j6eyqs4r57epd5ttffjuqzu
 [6]: https://drive.google.com/file/d/16zPTyDZ7rTBc7MarOI6lAOt6JdeHEI78/view?usp=sharing
 
