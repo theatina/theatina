@@ -7,7 +7,7 @@ Hello there !
 -->
 
 <!-- social media buttons -->
-[![Github][3_icon3]][3]
+[![Website][3_icon3]][3]
 &nbsp;
 [![CV][8_icon]][6]
 &nbsp;
@@ -27,11 +27,13 @@ Hello there !
 [2_icon]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3_icon1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 [4_icon1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black
+
 <!-- icons without padding -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 [3_icon2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3_icon3]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge-m&logo=github&logoColor=white
+<!-- [3_icon3]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge-m&logo=github&logoColor=white -->
+[3_icon3]: https://img.shields.io/badge/Website-9966CC?style=for-the-badge-m&logo=sitepoint&logoColor=black
 [4_icon2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge-m&logo=linkedin&logoColor=black
 [5_icon]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge-m&logo=spotify&logoColor=black
 [6_icon]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge-m&logo=facebook&logoColor=black
