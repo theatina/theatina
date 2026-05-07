@@ -57,13 +57,9 @@ Hello there !
 <h2 align="left">My GitHub Stats</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theatina&theme=nord&layout=compact&hide_border=true&langs_count=10" alt="Top Langs" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=theatina&theme=nord&layout=compact&hide_border=true&langs_count=10" alt="Top Langs" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=theatina&theme=onedark&no-frame=true&column=4&width=800" alt="trophy" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theatina&theme=algolia" alt="GitHub streak stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=theatina&theme=onedark&no-frame=true&column=4" alt="trophy" />
 </p>
