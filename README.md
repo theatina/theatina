@@ -54,20 +54,16 @@ Hello there !
 
 <h2></h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theatina&theme=nord&hide_border=True&layout=compact&card_width=444&langs_count=10)](https://github.com/theatina/github-readme-stats)
-<!-- &exclude_repo=asr-tts-class-2021)]-->
+<h2 align="left">My GitHub Stats</h2>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theatina&theme=nord&layout=compact&hide_border=true&langs_count=10" alt="Top Langs" />
+</p>
 
-<!--  
-![trophy](https://github-profile-trophy.vercel.app/?username=theatina&theme=onedark&no-frame=true&title=Stars,Commit,Repositories,Followers)
-<br><br>
-[![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-22%2007%202022-blue)](https://github.com/theatina)
--->
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=theatina&theme=onedark&no-frame=true&column=4&width=800" alt="trophy" />
+</p>
 
-<!--  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=theatina&theme=algolia)  
-<br />
--->
-
-
-
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theatina&theme=algolia" alt="GitHub streak stats" />
+</p>
