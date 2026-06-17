@@ -11,8 +11,6 @@ Hello there !
 &nbsp;
 <a href="https://www.theatina.com/assets/docs/CV_CTKylafi.pdf" target="_blank">![CV][8_icon]</a>
 &nbsp;
-<a href="https://github.com/theatina/theatina.github.io/blob/main/assets/docs/CV_CTKylafi.pdf?raw=true" download="CV_CTKylafi.pdf">![Download CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge-m&logo=google-drive&logoColor=black)</a>
-&nbsp;
 [![LinkedIn][4_icon2]][4]
 &nbsp;
 [![Spotify][5_icon]][5]
@@ -62,6 +60,6 @@ Hello there !
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=theatina&theme=nord&layout=compact&hide_border=true&langs_count=10" alt="Top Langs" />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=theatina&theme=onedark&no-frame=true&column=4" alt="trophy" />
-</p>
+<!-- <p align="left">
+  <img src="https://github-profile-trophy.p6v.dev/?username=theatina&theme=onedark&no-frame=true&column=4" alt="trophy" />
+</p> -->
