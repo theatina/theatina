@@ -9,7 +9,9 @@ Hello there !
 <!-- social media buttons -->
 [![Website][3_icon3]][3]
 &nbsp;
-[![CV][8_icon]][6]
+<a href="https://www.theatina.com/assets/docs/CV_CTKylafi.pdf" target="_blank">![CV][8_icon]</a>
+&nbsp;
+<a href="https://github.com/theatina/theatina.github.io/blob/main/assets/docs/CV_CTKylafi.pdf?raw=true" download="CV_CTKylafi.pdf">![Download CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge-m&logo=google-drive&logoColor=black)</a>
 &nbsp;
 [![LinkedIn][4_icon2]][4]
 &nbsp;
@@ -47,7 +49,7 @@ Hello there !
 [3]: http://www.theatina.com
 [4]: http://linkedin.com/in/theatinakylafi
 [5]: https://open.spotify.com/user/31rk7j6eyqs4r57epd5ttffjuqzu
-[6]: https://drive.google.com/file/d/16zPTyDZ7rTBc7MarOI6lAOt6JdeHEI78/view?usp=sharing
+[6]: https://github.com/theatina/theatina.github.io/blob/main/assets/docs/CV_CTKylafi.pdf?raw=true
 
 <!-- Statistics  
 ![Theatinas's github stats](https://github-readme-stats.vercel.app/api?username=theatina&count_private=True&show_icons=true&theme=react&hide_title=true&line_height=22pt&hide=issues,prs,contribs&hide_rank=True)-->
